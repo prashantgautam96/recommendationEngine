@@ -34,7 +34,7 @@ streamlit run app.py
 The dataset comprises a rich collection of movie ratings and metadata, which is pivotal for the recommendation engine. Access the dataset here.
 
 ## Contributing
-We welcome contributions! If you have suggestions or improvements, please fork the repository, create a feature branch, and submit a pull request.
+I welcome contributions! If you have suggestions or improvements, please fork the repository, create a feature branch, and submit a pull request.
 
 ## Future Work
 We aim to continuously improve MRE by:
