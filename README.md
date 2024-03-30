@@ -16,13 +16,13 @@ Ensure Python 3.x is installed on your system. Install the required libraries wi
 pip install numpy pandas scikit-learn scipy matplotlib
 ```
 ## Setup
-### Clone the repository to your local machine.
-### Navigate to the project directory.
-### Activate the virtual environment: 
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Activate the virtual environment: 
 ```bash
 pipenv shell
 ```
-### Install dependencies from the Pipfile if not already done
+4. Install dependencies from the Pipfile if not already done
 
 ## Usage
 To start the application and interact with the recommendation system:
@@ -39,9 +39,9 @@ We welcome contributions! If you have suggestions or improvements, please fork t
 ## Future Work
 We aim to continuously improve MRE by:
 
-### Integrating more advanced recommendation algorithms.
-### Enhancing the UI for a more immersive experience.
-### Expanding the dataset to include a wider range of movies and user reviews.
+- Integrating more advanced recommendation algorithms.
+- Enhancing the UI for a more immersive experience.
+- Expanding the dataset to include a wider range of movies and user reviews.
 Stay tuned for more updates and features!
 
 
